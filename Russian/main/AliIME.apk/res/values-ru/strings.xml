@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setting_keyboard_selection">Выберите Клавиатура</string>
+    <string name="setting_keyboard_selection_zh">Китайский</string>
+    <string name="setting_keyboard_selection_en">Английский</string>
+    <string name="setting_general_input">Общие параметры ввода</string>
+    <string name="setting_general_input_summary">Прогнозирование, Fuzzy Pinyin и обратая связь нажатий</string>
+    <string name="setting_handwriting">Рукописный ввод</string>
+    <string name="setting_predict_category">Предсказание</string>
+    <string name="setting_pre_zh">Китайский прогноз</string>
+    <string name="setting_fuzzy">Настройки Fuzzy Pinyin</string>
+    <string name="setting_fuzzy_category">Fuzzy</string>
+    <string name="setting_pre_en">Английский прогноз</string>
+    <string name="setting_pre_en_space">Авто-пробел</string>
+    <string name="setting_append_space_when_en">Добавить пробел после выбора кандидата</string>
+    <string name="setting_voice_input_category">Голос</string>
+    <string name="setting_voice_input">Онлайн распознавания речи</string>
+    <string name="setting_voice_input_notice">Требуется сетевое подключение, пожалуйста выберите один из вариантов ниже.</string>
+    <string name="setting_voice_input_disabled">Выкл.</string>
+    <string name="setting_voice_input_wifi">Только WLAN</string>
+    <string name="setting_voice_input_enabled">WLAN и 2G/3G сети</string>
+    <string name="setting_press">Обратная связь при нажатииk</string>
+    <string name="setting_press_vibrate">Вибро при нажатии</string>
+    <string name="setting_press_sound">Звук при нажатии</string>
+    <string name="setting_press_pop">Всплывающее окно при нажатии</string>
+    <string name="setting_press_pop_summary">Для Qwerty</string>
+    <string name="setting_fuzzy_zh">Fuzzy Pinyin</string>
+    <string name="setting_fuzzy_shengmu">Fuzzy инициалы</string>
+    <string name="setting_fuzzy_zh_z">zh = z</string>
+    <string name="setting_fuzzy_ch_c">ch = c</string>
+    <string name="setting_fuzzy_sh_s">sh = s</string>
+    <string name="setting_fuzzy_n_l">n = l</string>
+    <string name="setting_fuzzy_h_f">h = f</string>
+    <string name="setting_fuzzy_r_l">r = l</string>
+    <string name="setting_fuzzy_yunmu">Fuzzy финалы</string>
+    <string name="setting_fuzzy_ang_an">ang = an</string>
+    <string name="setting_fuzzy_eng_en">eng = en</string>
+    <string name="setting_fuzzy_ing_in">ing = in</string>
+    <string name="setting_fuzzy_iang_ian">iang = ian</string>
+    <string name="setting_fuzzy_uang_uan">uang = uan</string>
+    <string name="setting_enabled">Вкл.</string>
+    <string name="setting_disabled">Выкл.</string>
+    <string name="setting_handwriting_interval">Определение интервала</string>
+    <string name="setting_handwriting_line">Толщина штриха</string>
+    <string name="setting_handwriting_color">Цвет обводки</string>
+    <string name="setting_handwriting_interval_short">0.25 с.</string>
+    <string name="setting_handwriting_interval_mid">0.5 с.</string>
+    <string name="setting_handwriting_interval_long">1 с.</string>
+    <string name="setting_handwriting_interval_short_desc">Короткий</string>
+    <string name="setting_handwriting_interval_mid_desc">Средний</string>
+    <string name="setting_handwriting_interval_long_desc">Длинные</string>
+    <string name="setting_handwriting_weight_short_desc">Тонкий</string>
+    <string name="setting_handwriting_weight_mid_desc">Средний</string>
+    <string name="setting_handwriting_weight_long_desc">Толстый</string>
+    <string name="setting_handwriting_color_orange">Оранжевый</string>
+    <string name="setting_handwriting_color_pink">Розовый</string>
+    <string name="setting_handwriting_color_blue">Синий</string>
+    <string name="setting_handwriting_color_gray">Серый</string>
+    <string name="setting_default">По-умолчанию</string>
+    <string name="ime_info">com.aliyun.mobile.ime/.AImeService</string>
+    <string name="settting_hotword_dict">Словарь</string>
+    <string name="sync_label">Синхр. польз. словарь</string>
+    <string name="sync_description">Обновлять словарь пользователя один раз в неделю</string>
+    <string name="hot_word_sync">Горячие слова обновление автоматически</string>
+    <string name="hot_word_update_complete">Горячие слова для метода ввода были обновлены</string>
+    <string name="hot_word_not_update">Нет</string>
+    <string name="hot_word_updatetime">Обновление:</string>
+    <string name="setting_track_contact">Синхронизировать имена контактов</string>
+    <string name="track_contacts_prompt">Синхронизировать имена контактов</string>
+    <string name="track_contact_yes">Принять</string>
+    <string name="track_contact_no">Отклонить</string>
+    <string name="track_contact_info">Добавить имена контактов в словарь?</string>
+    <string name="lock_toast">Панель символов заблокирована. Вы можете вводить символы постоянно.</string>
+    <string name="customize_size_btn">Готово</string>
+    <string name="speech_begin">Касание для запуска</string>
+    <string name="speech_end">Касание для остановки</string>
+    <string name="speech_cancel">Отмена</string>
+    <string name="speech_disable">Отключить распознавание речи</string>
+    <string name="speech_error_config">Распознавание речи будет отключено для текущей сети</string>
+    <string name="speech_no_network">Отсутствует сетевое подключение. Настроить сейчас?</string>
+    <string name="speech_settings">Настройки</string>
+    <string name="speech_network_warning">Сетевая ошибка, повторите попытку</string>
+    <string name="speech_nothing_warning">Не признан, повторите попытку</string>
+    <string name="sync_title_ime">Словарь пользователя</string>
+    <string name="ime_syncing_local">Синхронизация локального словаря пользователя</string>
+    <string name="ime_syncing_remote">Синхронизация удаленного словаря пользователя</string>
+    <string name="ime_synced_local">Словарь локального пользователя синхронизирован</string>
+    <string name="ime_synced_remote">Словарь удаленного пользователя синхронизирован</string>
+    <string name="ime_name">YunOS input</string>
+    <string name="ime_settings_activity_name">Настройки</string>
+    <string name="navigation_keyboard">Qwerty</string>
+    <string name="navigation_keypad">Сетка</string>
+    <string name="navigation_handwrite">Рукописный</string>
+    <string name="navigation_cangjie">CangJie</string>
+    <string name="navigation_zhuyin">ZhuYin</string>
+    <string name="back_key_label">Назад</string>
+    <string name="enter_key_label_en">Готово</string>
+    <string name="enter_key_label_zh">Подтвердить</string>
+    <string name="enter_key_label_tw">Подтвердить</string>
+    <string name="Go_key_label_zh">Перейти</string>
+    <string name="Go_key_label_en">Перейти</string>
+    <string name="fenci_key_label">Причастия</string>
+    <string name="current_language_zh">Текущий язык: Китайский</string>
+    <string name="current_language_en">Текущий язык: Английский</string>
+    <string name="switch_txt" />
+    <string name="security_keyboard_tooltip_leading">Безопасный ввод включается для</string>
+    <string name="security_tooltip_default_app">you</string>
+    <string name="security_keyboard_tooltip_ending" />
+    <string name="locationaddress">[Местоположение]</string>
+    <string name="loadingtips">Загрузка...</string>
+    <string name="error_network">Нет сетевых подключений</string>
+    <string name="error_other">Неизвестная ошибка</string>
+    <string name="no_result">Невозможно определить ваш адрес</string>
+    <string name="map_location_title">Расположение</string>
+    <string name="confirm">OK</string>
+    <string name="setting">Настройки</string>
+    <string name="fail_to_start_qrcode_scanner">Не удалось активировать QR-код сканер</string>
+    <string name="cancel">Отмена</string>
+    <string name="retry">Повтор</string>
+    <string name="ime_syncing">Синхронизация пользовательского словаря</string>
+    <string name="ime_fail">Не удалось синхронизировать пользовательский словарь</string>
+    <string name="ime_succeed">Словарь пользователя синхронизирован</string>
+    <string name="check_network">Проверьте сетевое подключение и повторите попытку</string>
+    <string name="qrcode_prompt">QR-код</string>
+    <string name="map_prompt">Местоположение</string>
+    <string name="to_setting_prompt">Еще настройки</string>
+    <string name="server_updating">Согласно обслуживания, повторите попытку позже.</string>
+    <string name="check_account_login">Пожалуйста, проверьте аккаунт и повторите.</string>
+    <string name="lable_subtype">%s</string>
+    <string name="tutorial_welcome_prompt">Добро пожаловать в Ali Mobile Input</string>
+    <string name="tutorial_start_to_use">Запуск!</string>
+</resources>

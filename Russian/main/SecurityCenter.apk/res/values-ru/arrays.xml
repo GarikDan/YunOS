@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="question_list">
+        <item>"День рождения матери ?"</item>
+        <item>"День рождения отца ?"</item>
+        <item>Последние шесть цифр моего ID ?</item>
+        <item>"Имя моей матери ?"</item>
+        <item>"Имя моего отца ?"</item>
+    </string-array>
+    <string-array name="systemapp_packagename">
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.android.settings</item>
+        <item>com.yunos.alicontacts</item>
+        <item>com.aliyun.xiaoyunmi</item>
+        <item>com.aliyun.mobile.ime</item>
+        <item>com.aliyun.ams.netstats</item>
+        <item>com.aliyun.ams.translation.mobile</item>
+        <item>com.android.SmsService</item>
+        <item>com.android.phone</item>
+        <item>com.android.providers.telephony</item>
+        <item>com.android.providers.contacts</item>
+        <item>com.android.providers.settings</item>
+        <item>com.android.providers.applications</item>
+        <item>com.android.providers.userdictionary</item>
+        <item>com.aliyun.fota</item>
+        <item>com.android.weatherservice</item>
+        <item>com.android.bluetooth</item>
+        <item>com.android.providers.downloads</item>
+        <item>com.android.providers.drm</item>
+        <item>com.aliyun.ams.localrmisvc</item>
+        <item>com.aliyun.ams.rmi</item>
+        <item>com.android.providers.media</item>
+        <item>com.android.alarmclock</item>
+        <item>com.android.certinstaller</item>
+        <item>com.mediatek.CellConnService</item>
+        <item>com.android.stk2</item>
+        <item>com.android.stk</item>
+        <item>com.mediatek.bluetooth</item>
+        <item>com.android.defcontainer</item>
+        <item>com.aliyun.dataservice</item>
+        <item>com.android.calendar</item>
+        <item>com.mediatek.atci.service</item>
+        <item>com.aliyun.location.NetworkLocationProvider</item>
+        <item>com.aliyun.SecurityCenter</item>
+        <item>com.aliyun.ams.assistantservice</item>
+        <item>com.aliyun.baseservice.cmns_client</item>
+    </string-array>
+    <string-array name="filter_packagename">
+        <item>com.mediatek.voicecommand</item>
+        <item>com.mediatek.thermalmanager</item>
+        <item>com.android.bluetooth</item>
+        <item>com.mediatek.omacp</item>
+        <item>com.mediatek.atci.service</item>
+        <item>com.aliyun.homeshell</item>
+        <item>com.aliyun.homeshell.glass</item>
+        <item>com.aliyun.homeshell.grace</item>
+        <item>com.aliyun.homeshell.soundwave</item>
+        <item>com.aliyun.homeshell.radio</item>
+        <item>com.aliyun.homeshell.commando</item>
+        <item>com.aliyun.homeshell.walker</item>
+        <item>com.aliyun.homeshell.sakura</item>
+        <item>com.aliyun.ams.tyid</item>
+        <item>com.aliyun.mobile.storeservice</item>
+        <item>android</item>
+        <item>com.aliyun.cloudapp.appengine</item>
+        <item>com.aliyun.cloudapp.watchdog</item>
+        <item>com.aliyun.cloudapp.refreshbar</item>
+        <item>com.aliyun.cloudapp.launcher</item>
+        <item>com.aliyun.alisync</item>
+        <item>com.aliyun.dataservice</item>
+        <item>com.android.systemui</item>
+        <item>com.ktouch.ktcit</item>
+        <item>com.android.providers.applications</item>
+        <item>com.aliyun.ams.localrmisvc</item>
+        <item>com.aliyun.ams.rmi</item>
+        <item>com.android.providers.drm</item>
+        <item>com.aliyun.FirstExperience</item>
+        <item>com.aliyun.ic</item>
+        <item>com.ktouch.ktserver</item>
+        <item>com.svox.pico</item>
+        <item>com.aliyun.icclient</item>
+        <item>com.aliyun.app.onlinemediapicker.activities</item>
+        <item>com.aliyun.mobile.im</item>
+        <item>com.android.SmsService</item>
+        <item>com.android.ktcit</item>
+        <item>com.android.magicsmoke</item>
+        <item>com.android.musicvis</item>
+        <item>com.android.wallpaper</item>
+        <item>com.android.wallpaper.livepicker</item>
+        <item>com.android.htmlviewer</item>
+        <item>com.aliyun.mmcs</item>
+        <item>com.qualcomm.privinit</item>
+        <item>com.android.ktouch.wifi</item>
+        <item>com.android.TYPersistTask</item>
+        <item>com.qualcomm.wiper</item>
+        <item>com.mediatek.CellConnService</item>
+        <item>com.android.stk2</item>
+        <item>com.android.stk</item>
+        <item>com.mediatek.StkSelection</item>
+        <item>com.android.defcontainer</item>
+        <item>com.android.providers.calendar</item>
+        <item>com.mediatek.ygps</item>
+        <item>com.mediatek.mdlogger</item>
+        <item>com.mediatek.mobilelog</item>
+        <item>TP.Cal.A9</item>
+        <item>com.android.keychain</item>
+        <item>com.android.musicfx</item>
+        <item>com.android.caivs.app</item>
+        <item>com.android.networklocationservice</item>
+        <item>sim.android.mtkcit</item>
+        <item>com.android.backupconfirm</item>
+        <item>com.android.sharedstoragebackup</item>
+        <item>com.android.provision</item>
+        <item>com.android.cellbroadcastreceiver</item>
+        <item>com.android.exchange</item>
+        <item>com.quicinc.fmradio</item>
+        <item>com.qualcomm.wifi.softap</item>
+        <item>com.android.quicksearchbox</item>
+        <item>com.android.protips</item>
+        <item>com.android.email</item>
+        <item>com.android.smspush</item>
+        <item>com.android.qrd.configurationprompt</item>
+        <item>com.android.lunar</item>
+        <item>com.android.packageinstaller</item>
+        <item>com.qualcomm.cabl</item>
+        <item>com.android.voicedialer</item>
+        <item>com.android.inputmethod.latin</item>
+        <item>com.android.nfc</item>
+        <item>com.android.keyguard</item>
+        <item>com.android.apps.tag</item>
+        <item>com.android.providers.downloads.ui</item>
+        <item>com.android.vpndialogs</item>
+        <item>com.android.development</item>
+        <item>com.android.phasebeam</item>
+        <item>com.android.galaxy4</item>
+        <item>com.android.noisefield</item>
+        <item>com.android.soundrecorder</item>
+        <item>com.android.wallpaper.holospiral</item>
+        <item>com.android.speechrecorder</item>
+        <item>com.android.videoeditor</item>
+        <item>jp.co.omronsoft.openwnn</item>
+        <item>com.qrd.omadownload</item>
+        <item>com.aliyun.online.storage</item>
+        <item>com.android.certinstaller</item>
+        <item>hymost.android.cit</item>
+        <item>com.android.hymost</item>
+        <item>com.e28.CellBroadcast</item>
+        <item>com.mediatek</item>
+        <item>com.mediatek.data</item>
+        <item>com.android.providers.downloads</item>
+        <item>com.android.simmelock</item>
+        <item>com.mediatek.engineermode</item>
+        <item>com.android.providers.media</item>
+        <item>com.aliyun.homeshell.military</item>
+        <item>com.mediatek.smsreg</item>
+        <item>com.android.providers.userdictionary</item>
+        <item>com.aliyun.azone</item>
+        <item>com.aliyun.mobile.webshell</item>
+        <item>com.qualcomm.recorder</item>
+        <item>com.sina.weibo</item>
+        <item>com.alibaba.android.babylon</item>
+        <item>com.alibaba.mobileim</item>
+        <item>com.qzone</item>
+        <item>com.tencent.mm</item>
+        <item>com.tencent.qq</item>
+        <item>com.tencent.mobileqq</item>
+        <item>cn.com.fetion</item>
+        <item>com.feinno.felio</item>
+        <item>com.xiaomi.channel</item>
+        <item>cn.msn.messenger</item>
+        <item>jp.naver.line.android</item>
+        <item>cn.com.fetion7</item>
+        <item>com.dianping.v1</item>
+        <item>com.moji.mjweather</item>
+        <item>com.baidu.input</item>
+        <item>com.sohu.inputmethod.sogou</item>
+        <item>com.gfive.famos.servecenter</item>
+    </string-array>
+    <string-array name="mobile_accelerate_items">
+        <item>Запуск списка приложений</item>
+        <item>Список игнорирования</item>
+        <item>Менеджер Автозагрузки</item>
+    </string-array>
+    <string-array name="mobile_accelerate_descs">
+        <item>%1$d фоновые процессы</item>
+        <item>%1$d приложений игнорируются, они не могут быть остановленны.</item>
+        <item>Разрешить %1$d автозапуск</item>
+    </string-array>
+    <string-array name="health_check_items">
+        <item>Служба безопасности фона</item>
+        <item>Anti fraud call</item>
+        <item>Anti fraud message</item>
+        <item>Anti phishing site</item>
+        <item>Data monitor</item>
+        <item>Charged app scan</item>
+        <item>Privacy</item>
+        <item>Anti-theft</item>
+        <item>Intelligent block</item>
+        <item>Cloud sync</item>
+        <item>Intelligent blocking library</item>
+        <item>Cache files</item>
+        <item>Speedup</item>
+        <item>Автозагрузка</item>
+        <item>Anti payment fraud</item>
+        <item>Anti online bank fraud</item>
+        <item>Phishing site library</item>
+        <item>Virus library</item>
+        <item>Security version</item>
+        <item>Scan virus</item>
+    </string-array>
+    <string-array name="health_check_safe_items">
+        <item>Security service enabled</item>
+        <item>Anti fraud call enabled</item>
+        <item>Anti fraud message enabled</item>
+        <item>Anti phishing site enabled</item>
+        <item>Data monitor enabled</item>
+        <item>Charged app scan enabled</item>
+        <item>Privacy enabled</item>
+        <item>Anti-theft enabled</item>
+        <item>Intelligent block enabled</item>
+        <item>Cloud sync enabled</item>
+        <item>Intelligent lib is the latest</item>
+        <item>Clear running app cache: %1$sK</item>
+        <item>Free Ram: %1$sM</item>
+        <item>Autostarts: %1$s</item>
+        <item>Anti fraud payment enabled</item>
+        <item>Anti fraud online bank enabled</item>
+        <item>No virus</item>
+    </string-array>
+    <string-array name="health_check_option_items">
+        <item>Security service disabled</item>
+        <item>Anti fraud call disabled</item>
+        <item>Anti fraud message disabled</item>
+        <item>Anti phishing site disabled</item>
+        <item>Monthly data usage quota not set</item>
+        <item>Charged app scan disabled</item>
+        <item>Privacy disabled</item>
+        <item>Anti-theft disabled</item>
+        <item>Intelligent block disabled</item>
+        <item>Cloud sync disabled</item>
+        <item>Intelligent lib is not the latest</item>
+        <item>Running app cache: %1$sK</item>
+        <item>Available memory: %1$sM</item>
+        <item>Autostarts: %1$s</item>
+        <item>Anti fraud payment disabled</item>
+        <item>Anti fraud online bank disabled</item>
+    </string-array>
+    <string-array name="battery_auto_screen_lock_string_array">
+        <item>30 сек</item>
+        <item>1 мин</item>
+        <item>2 мин</item>
+        <item>5 мин</item>
+        <item>30 мин</item>
+    </string-array>
+    <integer-array name="battery_auto_screen_lock_int_array">
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+        <item>1800</item>
+    </integer-array>
+    <string-array name="deepItem_items">
+        <item>System logs</item>
+        <item>Invalid files</item>
+        <item>Empty folders and temporary files</item>
+        <item>Caches</item>
+        <item>Residual files</item>
+        <item>Large files</item>
+        <item>Apks</item>
+    </string-array>
+    <string-array name="deepItem_descriptions_items">
+        <item>Files log events while system is running</item>
+        <item>Invalid registration information, shortcuts, link files, etc.</item>
+        <item>Folders contain no files and temporary files</item>
+        <item>Temporary files about actions like visiting webpage, playing audio and video</item>
+        <item>Files remained after the app is uninstalled</item>
+        <item>Files larger than 10M</item>
+        <item>All apk files on your device</item>
+    </string-array>
+    <string-array name="deepItem_result_items">
+        <item>%1$s system logs, occupied %2$s</item>
+        <item>%1$s invalid files, occupied %2$s</item>
+        <item>%1$s empty folders and %2$s temporary files, occupied %3$s</item>
+        <item>%1$s cache, occupied %2$s</item>
+        <item>%1$s residual files, occupied %2$s</item>
+        <item>%1$s large files, occupied %2$s</item>
+        <item>%1$s apks, occupied %2$s</item>
+    </string-array>
+    <string-array name="auto_garbage_clean_cycle">
+        <item>Каждый день</item>
+        <item>Каждые три дня</item>
+        <item>Каждую неделю</item>
+    </string-array>
+    <integer-array name="auto_garbage_clean_cycle_value">
+        <item>1</item>
+        <item>3</item>
+        <item>7</item>
+    </integer-array>
+    <string-array name="intecepter_type">
+        <item>Блок вызовов</item>
+        <item>Блок SMS</item>
+    </string-array>
+    <string-array name="add_black_list">
+        <item>Журнал вызовов</item>
+        <item>Сообщения</item>
+        <item>Контакты</item>
+        <item>Ввести вручную</item>
+    </string-array>
+</resources>

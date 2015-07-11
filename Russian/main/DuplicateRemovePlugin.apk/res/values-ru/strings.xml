@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Очистить контакты</string>
+    <string name="action_settings">Настройки</string>
+    <string name="activity_title">Очистить контакты</string>
+    <string name="introduct_text">"Очистка контактов позволит :
+ 1. Автоматически объединить одинаковые контакты
+ 2. Найти контакты с одинаковым номером или именем, которые вы, возможно, захотите объединить
+ 3. Найти контакты без номера или имени, которые вы, возможно, захоите, изменить или удалить,"</string>
+    <string name="start_check">Очистить сейчас</string>
+    <string name="section_header_repeat">Похожие контакты</string>
+    <string name="delete_info">%1$d идентичных контактов объединено.</string>
+    <string name="bt_manual_merge">Объединить</string>
+    <string name="section_header_incomplete">Незаполненные контакты</string>
+    <string name="bt_edit_incomplet_contact">Просмотр</string>
+    <string name="empty_result_text">В очистке нет необходимости</string>
+    <string name="dialog_msg_exit_when_delete_not_finish">Происходит удаление контактов. Хотите выйти?</string>
+    <string name="dialog_msg_notification_for_check">Следующие действия приведут к изменению или удалению контактов, используйте осторожно и не запускайте похожих служб во время работы плагина.</string>
+    <string name="config_export_file_prefix">backup</string>
+    <string name="config_export_file_suffix" />
+    <string name="config_export_file_extension">vcf</string>
+    <string name="config_export_vcard_type">default</string>
+    <string name="need_backup_contacts"> Экспорт резервной копии файла vcard</string>
+    <string name="check_dialog_title">Предупреждение</string>
+    <string name="export_vcard_done">Экспортированные в файл vcard контакты сохранены на : Карта памяти/%s !</string>
+    <string name="export_vcard_fail">Ошибка экспорта vcard!</string>
+    <string name="progressbar_msg">Выполняется операция</string>
+</resources>

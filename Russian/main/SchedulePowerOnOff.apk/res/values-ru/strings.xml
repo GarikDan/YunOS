@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="schedule_power_on_off_settings_title">Расписание ВКЛ и ВЫКЛ</string>
+    <string name="schedule_power_on_off_time">Время</string>
+    <string name="schedule_power_on_off_repeat">Повтор</string>
+    <string name="schedule_power_on_off_set">Настроить Расписание ВКЛ и ВЫКЛ</string>
+    <string name="schedule_power_on_set">Установить время ВКЛ</string>
+    <string name="schedule_power_off_set">Установить время ВЫКЛ</string>
+    <string name="enable_schpwr">ВКЛ</string>
+    <string name="disable_schpwr">ОТКЛ</string>
+    <string name="day">1 дн.</string>
+    <string name="days">%s дн.</string>
+    <string name="hour">1 час</string>
+    <string name="hours">%s час.</string>
+    <string name="minute">1 мин.</string>
+    <string name="minutes">%s мин.</string>
+    <string name="every_day">Каждый день</string>
+    <string name="never">Никогда</string>
+    <string name="day_concat">", "</string>
+    <string name="done">Готово</string>
+    <string name="revert">Восстановить</string>
+    <string name="schpwr_shutdown_message">Устройство будет ВЫКЛ через %s секунд</string>
+    <string name="schpwr_shutdown_message_second">Устройство будет ВЫКЛ через %s секунд</string>
+	<string name="schedule_power_on_settings_summury">Расписание на вкл</string>
+    <string name="schedule_power_off_settings_summury">Расписание наr выкл</string>
+    <string name="time_picker_title">Время установлено</string>
+</resources>

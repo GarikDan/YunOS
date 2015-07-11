@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AliShareCenter</string>
+    <string name="default_share_title">Поделиться</string>
+    <string name="video_err">Видео недействительно</string>
+    <string name="selected">Выбрать</string>
+    <string name="send_to_you">Отправить вам</string>
+    <string name="item_unit"> </string>
+    <string name="contact_share">Совместное использование контактов </string>
+    <string name="audio">Аудио</string>
+    <string name="text">Контент</string>
+    <string name="note_sharing">Обмен Записками</string>
+    <string name="click_to_show_qr_code">Тап, чтобы создать QR код</string>
+    <string name="qrcode_share_desc">"Пожалуйста включите камеру и перейдите
+в Сканер с устройства с YunOS 3.0.2 
+или выше, отсканируйте QR код и
+получите содержимое."</string>
+    <string name="ap_server_busy">Сервис не доступен, попробуйте позже</string>
+    <string name="service_error">Сервис не доступен, попробуйте позже</string>
+    <string name="connect_server_failure">Не удалось подключиться, попробуйте позже</string>
+    <string name="please_wait">Загрузка...</string>
+    <string name="connect_success">Устройство подключено, передача файлов</string>
+    <string name="connect_fail_end_share">Нет подключенного устройства, закончить обмен?</string>
+    <string name="end_sharing">Уверены, закончить обмен?</string>
+    <string name="continue_send">Продолжить</string>
+    <string name="quit_send">Отказаться</string>
+    <string name="receiving_file">Приём</string>
+    <string name="is_now_receiving">Принято:</string>
+    <string name="receive_file_finish">Принято:</string>
+    <string name="all_file_received">Все принятые</string>
+    <string name="ap_transfer_error">Failed to reveive the connect</string>
+    <string name="ap_transfer_error_sd_invalid">Не удалось загрузить с карты памяти</string>
+    <string name="ap_transfer_error_sd_full">Хранилище заполнено, проверьте карту памяти и повторите попытку.</string>
+    <string name="unknown_error">Непредвиденная ошибка</string>
+    <string name="diconnect_from_server">Отключение от сервера</string>
+    <string name="receive_file_number">%s полученый контент</string>
+    <string name="failure">Ошибка</string>
+    <string name="service_has_stopped">Сервис остановлен</string>
+    <string name="noti_caption">%1$s успешно, %2$s ошибка.</string>
+    <string name="receiving_check">Прием файлов, пожалуйста проверьте ход выполнения в Центре уведомлений</string>
+    <string name="creating_hotspot">Создание QR кода…</string>
+</resources>

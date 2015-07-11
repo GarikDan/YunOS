@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_video_send">
+        <item quantity="other">Видео </item>
+        <item quantity="one">Видео </item>
+    </plurals>
+    <plurals name="num_photo_send">
+        <item quantity="other">Фото </item>
+        <item quantity="one">Фото </item>
+    </plurals>
+    <plurals name="num_file_send">
+        <item quantity="other">Файлы</item>
+        <item quantity="one">Файл</item>
+    </plurals>
+</resources>

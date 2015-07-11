@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Удаленное управление</string>
+    <string name="setting">Удаленное управление</string>
+    <string name="setting_off">Отключено</string>
+    <string name="history">История удаленного управления</string>
+    <string name="setting_summary">"Войдите в my.yunos.com и перейдите в 'My device-Forgot my phone' если вы это сделаете, вы сможете:"</string>
+    <string name="function_1">· Переадресовывать звонки</string>
+    <string name="function_2">· Устанавливать автоответчик с сообщением</string>
+    <string name="function_3">· Синхронизировать журнал звонков и сообщений</string>
+    <string name="divider">divider</string>
+    <string name="setup_remote_control">Включить удаленное управление</string>
+    <string name="account_status">Вход не выполнен</string>
+    <string name="account_summary">"'Для того чтобы Большой брат забыл про ваш телефон вы должны войти. Войдите в Cloud Space для удаленного соединения с телефоном."</string>
+    <string name="account_login">Войти</string>
+    <string name="set_pin">Задать пароль для удаленного управления</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="current_account">Текущий аккаунт:</string>
+    <string name="account_bound">Ассоциированный аккаунт:</string>
+    <string name="enter_pin">Введите 6 цифр</string>
+    <string name="enter_pin_confirm">Повторите</string>
+    <string name="pin_description">Для защиты телефона от утечки информации, удаленное управление защищено паролем</string>
+    <string name="pin_length_error">Пароль должен состоять из 6 цифр</string>
+    <string name="pin_match_error">Введенные пароли не совпадают</string>
+    <string name="Call_Fw_Pre_Str">Переадресовывать звонки на :</string>
+    <string name="Sms_Auto_Pre_Str">Отклонять вызовы с сообщением :</string>
+    <string name="Sync_Pre_Str">Синхронизированные контакты, логи звонков, сообщения</string>
+    <string name="Turn_Off_Remote_Settings">Настройки отключения удаленного управления</string>
+    <string name="Unkown_type_Str">Неизвестный тип</string>
+    <string name="Clear_Rec_Str">Очистить</string>
+    <string name="clear_dialog_info">Вы точно хотите удалить историю удаленного управления?</string>
+    <string name="clear_dialog_yes">OK</string>
+    <string name="clear_dialog_cancel">Отмена</string>
+    <string name="clear_data_going">Удаление, подождите…</string>
+    <string name="no_rec_data">История пуста</string>
+    <string name="history_record">История удаленного управления</string>
+    <string name="cloud_control_log_notification">Получена команда управления от аккаунта</string>
+    <string name="image_desc">Контент изображения</string>
+    <string name="no_network_message">Нет связи с сетью, настроить сейчас?</string>
+    <string name="enter_cloud_waiting">Включение</string>
+    <string name="enable_failure">Ошибка соединения, повторите позже</string>
+</resources>

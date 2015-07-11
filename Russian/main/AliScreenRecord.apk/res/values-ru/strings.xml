@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Запись экрана</string>
+    <string name="init_time">00:00:00</string>
+    <string name="notify_title">Мастер записи экрана</string>
+    <string name="nofity_content">Записываются действия на экран.</string>
+    <string name="time_reach">Достигнут лимит записи в 30 мин. Текущее видео будет сохранено автоматически.</string>
+    <string name="sdcard_full">Недостаточно места, записанное видео сохранено.</string>
+    <string name="start_failed">Ошибка запуска записи экрана.Повторите позже.</string>
+    <string name="no_enough_memory">Доступно менне 100 МБ свободного места. Пожалуйста, очистите SD карту.</string>
+    <string name="no_sdcard">Съемный накопитель не найден, проверьте SD карту и повторите позже.</string>
+    <string name="sdcard_in_use">SD карта заполнена. Проверьте SD карту и повторите позже.</string>
+    <string name="unknow_sdcard_error">Неизвестная ошибка SD карты.</string>
+    <string name="record_ok">OK</string>
+    <string name="share_video">Отправить</string>
+    <string name="share_title">Отправить запись экрана</string>
+    <string name="preview_video">Превью</string>
+    <string name="preview_title">Превью записи экрана</string>
+    <string name="cancel">Отмена</string>
+    <string name="quit_dialog">Выйти из Записи экрана и сбросить записанное видео?</string>
+    <string name="record_finished">Видео с экрана успешно записано</string>
+    <string name="dialog_content">Записанное видео сохранено на SD карту в папку Movies/ScreenCapture.</string>
+    <string name="secure_alert">Будьте осторожны!</string>
+    <string name="user_confirm">Я знаю</string>
+    <string name="pause_record">Запись экрана остановлена. Нажмите СТАРТ для продолжения записи.</string>
+    <string name="resume_record">Запись экрана продолжается.</string>
+    <string name="user_paused">Пауза</string>
+    <string name="auto_paused">Автопауза</string>
+    <string name="auto_resumed">Запись экрана автоматически возобновлена.</string>
+    <string name="auto_pause_msg">Вы открыли конфиденциальное содержимое и мы остановили запись</string>
+    <string name="not_resume">Вы открыли конфиденциальное содержимое, не продолжайте запись</string>
+    <string name="click_share">Нажмите для просмотра записанного видео</string>
+    <string name="status_bar_video_saved">Видео сохраняется...</string>
+    <string name="notification_video_saved">Видео сохранено</string>
+    <string name="notification_video_view">Коснитесь для просмотра записанного видео</string>
+</resources>

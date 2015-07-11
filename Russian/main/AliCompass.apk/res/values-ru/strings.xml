@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Компас</string>
+    <string name="location_north">North Latitude</string>
+    <string name="location_south">South Latitude</string>
+    <string name="location_east">East Longitude</string>
+    <string name="location_west">West Longitude</string>
+    <string name="north">С</string>
+    <string name="east_north">СВ</string>
+    <string name="east">В</string>
+    <string name="east_south">ЮВ</string>
+    <string name="south">Ю</string>
+    <string name="west_south">ЮЗ</string>
+    <string name="west">З</string>
+    <string name="west_north">СЗ</string>
+    <string name="pressure">"Pressure "</string>
+    <string name="altitude">"Altitude "</string>
+    <string name="ali_dlg_confirm_mobile">Allow Compass to access your location through the Internet and calibrate the elevation? It may incur a small amount of data usage.</string>
+    <string name="ali_dlg_confirm_mobile_1">Allow Compass to access your location through the Internet? It may incur a small amount of data usage.</string>
+    <string name="dlg_ok">OK</string>
+    <string name="cancel">Отмена</string>
+    <string name="calibration_hint">Чтобы откалибровать компас, покрутите телефоном в форме 8 несколько раз</string>
+    <string name="calibration_title">Калибровка компаса</string>
+    <string name="calibrate_success">Калибровка завершена</string>
+    <string name="getting_location">Получение местоположения…</string>
+    <string name="cannot_get_location">Не удалось получить местоположение</string>
+    <string name="cannot_get_MagneticFieldSensor">Cannot use compass</string>
+    <string name="en_vertical_north">С</string>
+    <string name="en_vertical_east_north">СВ</string>
+    <string name="en_vertical_east">В</string>
+    <string name="en_vertical_east_south">ЮВ</string>
+    <string name="en_vertical_south">Ю</string>
+    <string name="en_vertical_west_south">ЮЗ</string>
+    <string name="en_vertical_west">З</string>
+    <string name="en_vertical_west_north">СЗ</string>
+    <string name="ch_vertical_north">С</string>
+    <string name="ch_vertical_east_north">СВ</string>
+    <string name="ch_vertical_east">В</string>
+    <string name="ch_vertical_east_south">ЮВ</string>
+    <string name="ch_vertical_south">Ю</string>
+    <string name="ch_vertical_west_south">ЮЗ</string>
+    <string name="ch_vertical_west">В</string>
+    <string name="ch_vertical_west_north">СЗ</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="more_string">+%1$s</string>
+    <string name="copy_email">Скопировать адрес email</string>
+    <string name="copy_number">Скопировать номер телефона</string>
+    <string name="done">Вернуться</string>
+    <string name="calendar_storage">Память календаря</string>
+    <string name="upgrade_msg">Обновление базы данных календаря.</string>
+    <string name="calendar_default_name">По умолчанию</string>
+    <string name="calendar_info">Инфа календаря</string>
+    <string name="calendar_info_error">Ошибка</string>
+    <string name="calendar_info_no_calendars">Нет календарей</string>
+    <string name="calendar_info_events">События: %1$d</string>
+    <string name="calendar_info_events_dirty">События: %1$d, Несохранено: %2$d</string>
+    <string name="provider_label">Календарь</string>
+    <string name="debug_tool_delete_button">Удалить</string>
+    <string name="debug_tool_start_button">Пуск</string>
+    <string name="debug_tool_message">Вы собираетесь сделать копию базы данных календаря для SD карт/USB хранения, которая читается с любого приложения, и отправить его. Помните, удалите копию, как только вы успешно скопировали ее на устройство или получили по электронной почте.</string>
+    <string name="debug_tool_email_sender_picker">Выбрать программу, чтобы отправить ваш файл</string>
+    <string name="debug_tool_email_subject">База данных календаря прилагается</string>
+    <string name="debug_tool_email_body">Ниже прилагается мой календарь с базой данных всех моих встреч и личной информацией. Обращаться с осторожностью.</string>
+    <string name="local_calendar_account_display_name">Мой календарь</string>
+</resources>

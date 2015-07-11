@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_contacts_items">
+        <item>Добавить из Журнала вызовов</item>
+        <item>Добавить из Сообщений</item>
+        <item>Добавить из Контактов</item>
+        <item>Ввести номер</item>
+    </string-array>
+    <string-array name="add_photos_items">
+        <item>Камера</item>
+        <item>Выбрать из Галереи</item>
+    </string-array>
+</resources>

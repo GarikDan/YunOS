@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FM Радио</string>
+    <string name="dlg_noantenna_text">Наушники служат вкачестве антены. Подключите пожалуйста наушники.</string>
+    <string name="dlg_progress_text">Сканирование…</string>
+    <string name="default_station_name" />
+    <string name="toast_channel_searched">Поиск из доступных каналов:</string>
+    <string name="toast_cannot_search">Нет доступных каналов.</string>
+    <string name="toast_start_recording">Запись…</string>
+    <string name="toast_sdcard_missing">Unable to record in U disk model</string>
+    <string name="toast_sdcard_insufficient_space">Не достаточно места на SD-карте!</string>
+    <string name="toast_recorder_internal_error">Внутренняя ошибка или произошел конфликт рекордером!</string>
+    <string name="toast_player_internal_error">Внутренняя ошибка плеера!</string>
+    <string name="station_dialog_title">Выберите частоту</string>
+    <string name="station_count_title">Выберите канал(%d)</string>
+    <string name="station_dialog_edittitle">Изменит имя канала</string>
+    <string name="exit">Выход</string>
+    <string name="dialog_serach_msg">Каналы будут удалены, начать сканирование?</string>
+    <string name="btn_shield_station">Блокировка</string>
+    <string name="btn_search_station">Сканировать</string>
+    <string name="tab_station_list">Каналы</string>
+    <string name="tab_record_list">Записи</string>
+    <string name="shield_station_title">Блокировать канал</string>
+    <string name="list">Список</string>
+    <string name="dialog_auto_search_msg">Автоматически сканировать каналы?</string>
+    <string name="delete">Удалить</string>
+    <string name="test_success">成功</string>
+    <string name="test_fail">失败</string>
+    <string name="test_search">搜索</string>
+    <string name="record_finish">Стоп.</string>
+    <string name="record_count_title">Выбрано (%d)</string>
+    <string name="record_delete_msg">Вы уверенны, удалить запись?</string>
+    <string name="channel_delete_msg">Вы уверенны, удалить канал?</string>
+    <string name="station_add">%.1f добавлено к списку каналов</string>
+    <string name="station_delete">%.1f удалено из списка каналов</string>
+    <string name="text_fm">FM</string>
+    <string name="text_mhz">MHz</string>
+    <string name="text_point">.</string>
+    <string name="stored_fold">Запись сохранена в:</string>
+</resources>

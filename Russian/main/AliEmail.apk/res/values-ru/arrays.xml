@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_settings_check_frequency_entries">
+        <item>@string/account_setup_options_mail_check_frequency_never</item>
+        <item>@string/account_setup_options_mail_check_frequency_5min</item>
+        <item>@string/account_setup_options_mail_check_frequency_10min</item>
+        <item>@string/account_setup_options_mail_check_frequency_15min</item>
+        <item>@string/account_setup_options_mail_check_frequency_30min</item>
+        <item>@string/account_setup_options_mail_check_frequency_1hour</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Мелкий</item>
+        <item>Небольшой</item>
+        <item>Обычный</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+    </string-array>
+</resources>

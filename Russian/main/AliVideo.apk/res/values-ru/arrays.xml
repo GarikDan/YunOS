@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="video_share_mode_items">
+        <item>Отправить по Email</item>
+        <item>Отправить по Bluetooth</item>
+    </string-array>
+</resources>
